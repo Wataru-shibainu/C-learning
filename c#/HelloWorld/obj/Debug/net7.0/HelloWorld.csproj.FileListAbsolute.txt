@@ -1,0 +1,15 @@
+/Users/watarumori/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/watarumori/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/watarumori/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/watarumori/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/watarumori/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/watarumori/Desktop/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
