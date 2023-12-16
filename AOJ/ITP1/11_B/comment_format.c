@@ -1,0 +1,15 @@
+/*
+declaration
+*/
+
+/*
+input
+*/
+
+/*
+process
+*/
+
+/*
+output
+*/
